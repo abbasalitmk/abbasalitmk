@@ -1,8 +1,6 @@
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+is+Abbasali....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Abbasali;Full+Stack+Developer" alt="Typing SVG" /></a>
 </h1>
 
 <h5 align="center">
@@ -69,3 +67,5 @@
 <hr>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Abbasali;Full+Stack+Developer)](https://git.io/typing-svg)
+
+
